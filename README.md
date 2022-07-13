@@ -1,2 +1,2 @@
 # micro
-MicroRobotics MR home pahe
+MicroRobotics MR home page
